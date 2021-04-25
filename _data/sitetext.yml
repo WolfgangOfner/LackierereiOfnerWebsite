@@ -109,20 +109,20 @@ de-DE: &DEFAULT_EN
         role: "Schani"
         image: assets/img/team/2.jpg        
 
-  contact:
-    title: "Kontaktieren Sie uns"
-    text: "Senden Sie uns eine Nachricht"
-    section: contact
-    name: "Name*"
-    name-validation: "Bitte geben Sie Ihren Namen ein"
-    email: "Email*"
-    email-validation: "Bitte geben Sie eine Email Adresse ein"
-    phone: "Telefonnummer"
-    phone-validation: "Bitte geben Sie eine Telefonnummer ein"
-    message: "Ihre Nachricht*"
-    message-validation: "Bitte geben Sie Ihre Nachricht ein"
-    subject: "Anfrage Lackierei Ofner"
-    submit: "Nachricht abschicken"
+  # contact:
+  #   title: "Kontaktieren Sie uns"
+  #   text: "Senden Sie uns eine Nachricht"
+  #   section: contact
+  #   name: "Name*"
+  #   name-validation: "Bitte geben Sie Ihren Namen ein"
+  #   email: "Email*"
+  #   email-validation: "Bitte geben Sie eine Email Adresse ein"
+  #   phone: "Telefonnummer"
+  #   phone-validation: "Bitte geben Sie eine Telefonnummer ein"
+  #   message: "Ihre Nachricht*"
+  #   message-validation: "Bitte geben Sie Ihre Nachricht ein"
+  #   subject: "Anfrage Lackierei Ofner"
+  #   submit: "Nachricht abschicken"
 
   openinghours:
     title: "Öffnungszeiten"

@@ -8,8 +8,8 @@ de-DE: &DEFAULT_EN
     #   section: timeline
     - title: "Team"
       section: team
-    - title: "Kontakt"
-      section: contact
+    # - title: "Kontakt"
+    #   section: contact
     - title: "Öffnungszeiten"
       section: openinghours
 en-US:
