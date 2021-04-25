@@ -54,7 +54,7 @@ img::-moz-selection { background: transparent; }
 
 #col-md-3 col-sm-6 { flex: 0 0 auto; }
 
-header.masthead { text-align: center; color: white; background-image: url("../img/header.png"); background-repeat: no-repeat; background-attachment: scroll; background-position: center center; background-size: cover; }
+header.masthead { text-align: center; color: white; background-image: url("../img/header.jpg"); background-repeat: no-repeat; background-attachment: scroll; background-position: center center; background-size: cover; }
 
 header.masthead .intro-text { padding-top: 150px; padding-bottom: 100px; }
 
