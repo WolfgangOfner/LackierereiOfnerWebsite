@@ -128,6 +128,10 @@ de-DE: &DEFAULT_EN
     title: "Öffnungszeiten"
     section: openinghours
 
+  contact:
+    title: "Kontakt"
+    section: contact
+
   footer:
     legal: "Impressum"
     # social:
