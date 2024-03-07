@@ -1,0 +1,63 @@
+url: 
+baseurl: 
+
+# Site settings
+title: Lackiererei Ofner
+email: your-email@domain.com
+description: XXX"
+
+
+# Team names, titles and social links
+people:
+- name: Michael Ofner
+  pic: 1
+  position: Chef
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
+
+- name: Robert
+  pic: 2
+  position: Hackler
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: linkedin
+  #     url: #
+
+- name: Lehrling
+  pic: 3
+  position: Schani
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: google-plus
+  #     url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/wolfgang_ofner
+  - title: linkedin 
+    url: https://www.linkedin.com/in/wolfgangofner
+  - title: github
+    url: https://github.com/WolfgangOfner
+  - title: globe
+    url: https://programmingwithwolfgang.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Werner v. Siemensstraße 6
+  - line: 2620 Neunkirchen
+
+# Build settings
+markdown: kramdown
+permalink: pretty
